@@ -1,6 +1,6 @@
 Name:		texlive-sdaps
-Version:	61017
-Release:	2
+Version:	65345
+Release:	1
 Summary:	LaTeX support files for SDAPS
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sdaps

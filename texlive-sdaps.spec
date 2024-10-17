@@ -3,7 +3,7 @@ Version:	65345
 Release:	1
 Summary:	LaTeX support files for SDAPS
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sdaps
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sdaps
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sdaps.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sdaps.doc.r%{version}.tar.xz
